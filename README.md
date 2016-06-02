@@ -1,5 +1,6 @@
 # rajce_img_downloader
-Python downloader from http://www.rajce.idnes.cz/
+Python image downloader for http://www.rajce.idnes.cz/
 
-python script uses "requests" module, more info:
-http://docs.python-requests.org/en/latest/
+Tested on versions:
+python 2.7.11
+requests 2.10.0 
